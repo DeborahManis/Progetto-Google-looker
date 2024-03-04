@@ -1,0 +1,6 @@
+Link dati https://1drv.ms/x/s!AiUcVo4trr2JiBC4C3R4wSK5EKKI?e=GKk5Ma
+Link dashboard https://lookerstudio.google.com/s/p5S1iVVVFz4
+
+Ho creato una dashboard interattiva sui dati raccolti in un mese circa, argomento : ore passete a giocare con la playstation a Warzone.
+Dall'analisi risulta che il giorno della settimana dove gioco più ore è il venerdi ( presubilmente perchè di giorno dopo non ho sveglia e perchè solitamente non faccio tardi la notte in quanto gli altri lavorano di sabato) e il giorno dove gioco di meno è il sabato. 
+La mia idea originaria era confrontare le mie ore con le ore di gioco di un Pro player ( Ammetto che volevo trovare la scusa che non sono brava perchè gioco poco xD). Purtroppo ho trovato difficoltà a reperire dataset sullo stesso gioco dove era presente il tempo di gioco, ho quindi deciso di fare una ricerca più ampia per trovare un dataset, avevo trovato qualcosa di interessante ma le ore segnate per alcuni giocatori risultavano essere sopra le 120h  e non era ben chiaro il lasso di tempo in cui erano conteggiate. Ormai era troppo tardi per cercare e trovare altro, quindi ho deciso di lasciare solo la mia dashboard.
